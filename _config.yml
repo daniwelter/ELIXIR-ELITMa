@@ -61,6 +61,27 @@ defaults:
       sidebar: module-communication
       type: Communication
       type_img: /images/icons/icon-module-communication.svg
+  -
+    scope:
+      path: "pages/modules/strategic-management"
+    values:
+      sidebar: module-strategic-management
+      type: Strategic Management
+      type_img: /images/icons/icon-module-strategic-management.svg
+  -
+    scope:
+      path: "pages/modules/financial-management"
+    values:
+      sidebar: module-finance
+      type: Fiancial Management
+      type_img: /images/icons/icon-module-finance.svg
+  -
+    scope:
+      path: "pages/modules/project-management"
+    values:
+      sidebar: module-project-management
+      type: Project Management
+      type_img: /images/icons/icon-module-project-management.svg
 
 
 plugins:

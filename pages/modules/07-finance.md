@@ -8,7 +8,7 @@ page_img: /icons/icon-module-finance.svg
 
 Participants will learn theoretical and practical financial management techniques for ELIXIR Nodes, including internal control and risk management.
 ## Module Chapters
-{% include module-tiles.html type="Finance" %}
+{% include module-tiles.html type="Finance" custom="mod_fm_1" sort=false col=3 %}
 
 ## Related events
 ### Upcoming events

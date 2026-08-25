@@ -9,7 +9,8 @@ page_img: /icons/icon-module-strategic-management.svg
 This module introduces lightweight tools and frameworks for monitoring and tracking strategic objectives using quantitative and qualitative indicators.
 
 ## Module chapters
-{% include module-tiles.html type="Strategic management" %}
+{% include module-tiles.html type="Strategic management" custom="mod_sm_1" sort=false col=3 %}
+
 
 ## Related events
 ### Upcoming events

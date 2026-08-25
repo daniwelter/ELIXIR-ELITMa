@@ -27,8 +27,8 @@
   type: Strategic Management
   leads:
   url: modules/strategic-management
-  status: to do
-  time: 
+  status: in development
+  time: 1 hour
   status_badge:
   order: 3
 
@@ -75,8 +75,8 @@
   type: Finance
   leads:
   url: modules/finance
-  status: to do
-  time: 
+  status: in development
+  time: 1h
   status_badge:
   order: 7
 
@@ -87,8 +87,8 @@
   leads:
   type: Project Management
   url: modules/project-management
-  status: to do
-  time: 
+  status: in development
+  time: 1h
   status_badge:
   order: 8
 

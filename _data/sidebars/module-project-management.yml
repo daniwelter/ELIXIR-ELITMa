@@ -1,3 +1,5 @@
-title: Project managementt
+title: Project management
 title-url: modules/project-management
 subitems:
+  - title: 01 Project management best practice for Nodes
+    url: /01-pm-intro

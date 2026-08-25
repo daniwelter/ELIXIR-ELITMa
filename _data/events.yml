@@ -58,6 +58,7 @@
   related_pages:
     - mod_sm
     - mod_fm
+    - mod_pm
 - name: "OATEN-ELITma: Coaching sessions on Strategic and Financial Management"
   startDate: 2023-02-07
   endDate: 2023-02-07
@@ -78,3 +79,4 @@
   related_pages:
     - mod_sm
     - mod_fm
+    - mod_pm

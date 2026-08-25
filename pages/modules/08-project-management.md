@@ -10,11 +10,11 @@ This module promotes project management best practices and provides a flexible, 
 
 
 ## Module Chapters
-{% include module-tiles.html type="Project management" %}
+{% include module-tiles.html type="Project management" custom="mod_pm_1" sort=false col=3 %}
 
 
-<!-- ## Related events
+## Related events
 ### Upcoming events
 {% include events.html event_type="upcoming_event" related_pages="mod_pm" %}
 ### Past events
-{% include events.html event_type="past_event" related_pages="mod_pm" %} -->
+{% include events.html event_type="past_event" related_pages="mod_pm" %}

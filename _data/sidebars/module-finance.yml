@@ -1,3 +1,5 @@
 title: Financial management
 title-url: modules/finance
 subitems:
+  - title: 01 Financial management techniques for ELIXIR Nodes
+    url: /01-fm-intro
